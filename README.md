@@ -1,2 +1,2 @@
 # simpleprogramc-
-sample programs for learning
+sample programs

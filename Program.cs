@@ -26,7 +26,7 @@ if (app.Environment.IsDevelopment())
 app.ConfigureExceptionHandelr();
 
 app.UseAuthorization();
-
+app.UseRouting();
 app.MapControllers();
 
 app.Run();
